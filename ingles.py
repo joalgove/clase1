@@ -10,6 +10,6 @@ def get_word(n):
     else:
         return "El número no está entre 0 y 10"
 
-numero = int(input("Introduce un número: "))
+numero = int(input("Introduce un número:!!! "))
 palabra = get_word(numero)
 print(palabra)
